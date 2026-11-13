@@ -12,7 +12,7 @@
 |------|------|
 | Frontend/Backend | Next.js (App Router 활용) |
 | Database/Auth/Storage | Supabase (PostgreSQL, 인증, PDF/Word 원본 저장) |
-| Parsing AI | 텍스트 추출 라이브러리(pdf-parse, mammoth 등) + OpenAI API (GPT-4o) |
+| Parsing AI | 텍스트 추출 라이브러리(pdf-parse, mammoth 등) + OpenAI / Google Gemini API |
 | Styling | Tailwind CSS + UI 컴포넌트(shadcn/ui 권장) |
 
 ---

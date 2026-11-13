@@ -6,14 +6,14 @@
 
 - Next.js (App Router)
 - Supabase (PostgreSQL / Auth / Storage)
-- OpenAI GPT-4o (서류 정형화)
+- OpenAI / Google Gemini (서류 정형화, `AI_PROVIDER`로 선택)
 - Tailwind CSS
 
 ## 시작하기
 
 ```bash
 cp .env.example .env.local
-# .env.local 에 Supabase / OpenAI 키 입력
+# .env.local 에 Supabase / OpenAI·Gemini 키 입력
 
 npm install
 npm run dev
